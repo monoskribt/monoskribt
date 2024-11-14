@@ -13,36 +13,28 @@ ___________
 <div align="center">
     <h3>Tech Stack 🛠️</h3>
     <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" 
-        style="margin-right: 20px;"/>
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" 
-        style="margin-right: 20px;"/> 
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp; 
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" 
-        style="margin-right: 20px;"/>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" 
-        style="margin-right: 20px;"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" 
-        style="margin-right: 20px;"/>
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" 
-        style="margin-right: 20px;"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" 
-        style="margin-right: 20px;"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40" 
-        style="margin-right: 20px;"/>
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
 </div>
 

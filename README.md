@@ -53,7 +53,7 @@ ___
 
 
 <div align="center">
-    <h3>Connect with me:</h3>
+    <h3>Connect with me</h3>
     <a href="https://www.linkedin.com/in/dmytro-kozub-0497b8296/">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;

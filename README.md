@@ -62,15 +62,14 @@ ___
 
 <div align="center">
     <h3>Connect with me:</h3>
-    
-<a href="https://www.linkedin.com/in/dmytro-kozub-0497b8296/">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" 
-        alt="LinkedIn" 
-        width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-<a href="https://t.me/monoskribt">
-        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" 
-        alt="Telegram" 
-        width="40" height="40"/>
+    <a href="https://www.linkedin.com/in/dmytro-kozub-0497b8296/">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/monoskribt">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:kozub.dima3@gmail.com">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
     </a>
 </div>
+

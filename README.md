@@ -6,7 +6,6 @@
 - 🎓 I'm a student at John Paul II Catholic University of Lublin, studying informatics.
 - 💻 Expanding my knowledge in **Java**, **Spring Framework** and also **AWS**.
 - 🚀 My goal is to be a Software Developer.
-- 🏋️ In my free time, I enjoy going to the gym and am keen on football.
 
 ___________
 

@@ -20,8 +20,14 @@ ___________
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
@@ -34,6 +40,9 @@ ___________
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 

@@ -3,9 +3,10 @@
 
 ### About Me
 
-- 🎓 I'm a student at John Paul II Catholic University of Lublin, studying informatics.
-- 💻 Expanding my knowledge in **Java**, **Spring Framework** and also **AWS**.
-- 🚀 My goal is to be a Software Developer.
+- 🎓 I hold a Bachelor’s degree in Information Science from John Paul II Catholic University of Lublin.
+- 💻 Continuously expanding my expertise in **Java**, **Spring Framework**, **Spring AI** and **AWS**.
+- 🏅 Certified AWS Developer Associate.
+- 🚀 My goal is to become a professional Software Developer.
 
 ___________
 

@@ -3,7 +3,7 @@
 ### About Me
 
 - 🎓 I hold a Bachelor’s degree in Information Science from John Paul II Catholic University of Lublin.
-- - 🏅 Double AWS Certified.
+- 🏅 Double AWS Certified.
 - 💻 Expanding my expertise in System Design, AI/LLM.
 
 ____
